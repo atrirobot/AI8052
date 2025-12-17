@@ -1,37 +1,41 @@
-# 逐飞科技STC32G144K_100PIN开源库
+![逐飞LOGO](https://images.gitee.com/uploads/images/2019/0924/114256_eaf16bad_1699060.png "逐飞科技logo 中.png")
 
-#### 介绍
-逐飞科技针对参加各类竞赛以及使用STC32G144K246_100Pin进行产品开发，制作的STC32G144K246_100Pin开源库。
+# 逐飞科技STC32G144K 100Pin开源库
 
-#### 软件架构
-软件架构说明
+#### 简介
 
+逐飞科技针对参加各类竞赛以及使用STC32G144K246 100Pin进行产品开发，制作的STC32G144K 100Pin开源库。
 
-#### 安装教程
+#### 免责声明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+本文档仅提供阶段性信息，所含内容可根据产品的实际情况随时更新，恕不另行通知。如因文档使用不当造成的直接或间接损失，本公司不承担任何责任。
+
+#### 环境准备
+
+1.  **STC32G144K 100Pin硬件环境：** 
+
+- 推荐使用本公司STC32G核心板，[点击此处购买](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-22508770840.9.516749ccPBxWt6&id=669462141907)。
+
+2.  **软件开发环境：** 
+    （MDK FOR C251）
+
+- MDK 推荐使用版本：V5.60。
+
+3.  **无需下载器：** 
+
+- 按住P32引脚上电，即可进入USB下载模式。
+
+3.  **内部晶振频率：** 
+
+- 默认使用内部晶振，最高频率可达120Mhz
+
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  **下载开源库：** 点击页面右侧的克隆/下载按钮，将工程文件保存到本地。您可以使用git克隆（Clone）或下载ZIP压缩包的方式来下载。推荐使用git将工程目录克隆到本地，这样可以使用git随时与我们的开源库保持同步。关于码云与git的使用教程可以参考以下链接 [https://gitee.com/help](https://gitee.com/help)。
+2.  **打开工程：** 将下载好的工程文件夹打开（若下载的为ZIP文件，请先解压压缩包）。在打开工程前，请务必确保您的IDE满足环境准备章节的要求。
 
-#### 参与贡献
+#### 逐飞科技STC32G144K246 100Pin核心板
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![逐飞科技STC32G144K246 100Pin核心板](https://img.alicdn.com/imgextra/i2/2364650632/O1CN01ddAGrU1GXVQLph8Vs_!!2364650632.jpg_.webp "逐飞科技STC32G144K246 100Pin核心板.jpg")
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
